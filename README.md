@@ -6,4 +6,4 @@ I also develop mathematics, programming languages and web development frameworks
 
 Check out https://noob.software to see my applications.
 
-https://thevault.hiphop is an example of a web app noob software has developed.
+http://thevault.hiphop is an example of a web app noob software has developed.
