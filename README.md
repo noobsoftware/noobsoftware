@@ -10,4 +10,4 @@ I also develop mathematics, programming languages and web development frameworks
 
 Check out https://noob.software to see my applications.
 
-http://thevault.hiphop and http://videogalaxy.net is an example of a web apps developed using Noob StreamlineJS and NoobScript.
+http://thevault.hiphop and http://videogalaxy.net are examples of a web apps developed using Noob StreamlineJS and NoobScript.
